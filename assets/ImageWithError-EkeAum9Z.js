@@ -1,0 +1,1 @@
+import{$n as e,Qi as t,da as n,ma as r,ra as i}from"./store-C_VpuKpd.js";var a=a=>{let[o,s]=n(!1);return i(t,{get when(){return!o()},get fallback(){return a.fallbackErr},get children(){return i(e,r(a,{onError:()=>{s(!0)}}))}})};export{a as t};
