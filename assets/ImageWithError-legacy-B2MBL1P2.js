@@ -1,0 +1,1 @@
+(function(){System.register([`./store-legacy-BiIsTCDz.js`],function(e,t){var n,r,i,a,o;return{setters:[function(e){n=e.$n,r=e.Qi,i=e.da,a=e.ma,o=e.ra}],execute:function(){e(`t`,e=>{let[t,s]=i(!1);return o(r,{get when(){return!t()},get fallback(){return e.fallbackErr},get children(){return o(n,a(e,{onError:()=>{s(!0)}}))}})})}}})})();
