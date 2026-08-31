@@ -1,0 +1,1 @@
+import{T as e,V as t,ln as n,ra as r}from"./store-C_VpuKpd.js";import{Mt as i,Y as a}from"./components-JzA44ZhB.js";var o=()=>{let[o]=t();return r(i,{get loading(){return o.loading},get children(){return r(a,{get children(){return o()?.content},get ext(){return n(e.obj.name)},toc:!0})}})};export{o as default};
